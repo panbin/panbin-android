@@ -42,6 +42,7 @@ Android开源项目，期待大家和我们一起共同维护
 - [开发资源](#开发资源)
     - [他人开源总结](#他人开源总结)
     - [中文开发博客列表](#中文开发博客列表)
+- [他人总结](#他人总结)
 
 ========
 ### 具体内容 =============================
@@ -735,5 +736,12 @@ Android源代码](http://www.apkbus.com/plugin.php?id=codesrc&modo=all)。
  * [Chad.cym的专栏](http://blog.csdn.net/cym492224103) - Chad.cym的专栏:android5.0新特性分析。
 
  * [搜索最好的 Android 代码——Codota](http://www.imooc.com/article/1086) -  从这里搜索超过七百万精品代码实例——Codota,，不仅只有Github，而且还有知名博客和开发者网站，让你搜索一个东西，不用在找上半天.
+
+ #### 他人总结
+ * [awesome-android](https://github.com/JStumpp/awesome-android) - <font color=#FF0000 >Awesome可能是GitHub上寻找和整理开源项目最好的方式</font> 。 
+ * [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - <font color=#FF0000 >Awesome可能是GitHub上寻找和整理开源项目最好的方式</font> 。 
+ * [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries) - <font color=#FF0000 >Awesome可能是GitHub上寻找和整理开源项目最好的方式</font> 。 
+ * [awesome-github-android-ui](https://github.com/opendigg/awesome-github-android-ui) - <font color=#FF0000 >Awesome可能是GitHub上寻找和整理开源项目最好的方式</font> 。
+ * [android-security-awesome](https://github.com/ashishb/android-security-awesome) - <font color=#FF0000 >Awesome可能是GitHub上寻找和整理开源项目最好的方式</font> 。  
  
 
