@@ -359,8 +359,10 @@ https://github.com/jeasonlzy/okhttp-OkGo
  * [crop-image-layout](https://github.com/yulu/crop-image-layout) - crop-image-layout：图片裁切布局。
  * [RenderscriptHistogramEqualization](https://github.com/qhutch/RenderscriptHistogramEqualization) - [RenderScript :简单而快速的图像处理](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0504/4205.html)
  * [Luban](https://github.com/Curzibn/Luban) - Luban（鲁班） —— Android图片压缩工具，仿微信朋友圈压缩策略。
+ * [Tiny](https://github.com/Sunzxyong/Tiny) - an image compression framework.
  * [Compressor](https://github.com/zetbaitsu/Compressor) - Compressor is a lightweight and powerful android image compression library. Compressor will allow you to compress large photos into smaller sized photos with very less or negligible loss in quality of the image.
  * [AndroidImagePicker](https://github.com/easonline/AndroidImagePicker) - an imagePicker for android ,with it,you can select single or multiple image,crop it for avatar,take a photo and use it,preview and zoom etc.
+
 
 ========
 #### 多媒体处理
