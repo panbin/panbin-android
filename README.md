@@ -27,7 +27,7 @@ Android开源项目，期待大家和我们一起共同维护
 - [地图](#地图)
 - [数据库](#数据库)
 - [图像浏览及处理](#图像浏览及处理)
-- [视频音频处理](#视频音频处理)
+- [多媒体处理](#多媒体处理)
 - [测试及调试](#测试及调试)
 - [动态更新热更新](#动态更新热更新)
 - [消息推送与及时通讯](#消息推送与及时通讯)
@@ -38,6 +38,7 @@ Android开源项目，期待大家和我们一起共同维护
 - [好的文章](#好的文章)
 - [收集android上开源的酷炫的交互动画和视觉效果](#收集android上开源的酷炫的交互动画和视觉效果)
 - [UI资源](#UI资源)
+- [工具](#工具)
 - [开发资源](#开发资源)
     - [他人开源总结](#他人开源总结)
     - [中文开发博客列表](#中文开发博客列表)
@@ -243,6 +244,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [VerificationCodeView](https://github.com/Freshman111/VerificationCodeView) - 可用于动态生成验证码，常见于金融类app。
  * [ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView) - 类似 Facebook 加载时，条目的闪烁效果，酷酷的。
  * [StatusView](https://github.com/iammert/StatusView) - 简洁优雅的网络状态提示。
+ * [android-FlipView](https://github.com/emilsjolander/android-FlipView) - 实现类似真实翻页效果。
 
 ========
 #### 动画
@@ -355,9 +357,12 @@ https://github.com/jeasonlzy/okhttp-OkGo
  * [uCrop](https://github.com/Yalantis/uCrop) - uCrop 是 Yalantis 推出的又一款力作, 用于裁剪 Android 系统上的图片, 致力于打造最佳的图片裁剪体验。
  * [crop-image-layout](https://github.com/yulu/crop-image-layout) - crop-image-layout：图片裁切布局。
  * [RenderscriptHistogramEqualization](https://github.com/qhutch/RenderscriptHistogramEqualization) - [RenderScript :简单而快速的图像处理](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0504/4205.html)
+ * [Luban](https://github.com/Curzibn/Luban) - Luban（鲁班） —— Android图片压缩工具，仿微信朋友圈压缩策略。
+ * [Compressor](https://github.com/zetbaitsu/Compressor) - Compressor is a lightweight and powerful android image compression library. Compressor will allow you to compress large photos into smaller sized photos with very less or negligible loss in quality of the image.
+ * [AndroidImagePicker](https://github.com/easonline/AndroidImagePicker) - an imagePicker for android ,with it,you can select single or multiple image,crop it for avatar,take a photo and use it,preview and zoom etc.
 
 ========
-#### 视频音频处理
+#### 多媒体处理
  * [ijkplayer](https://github.com/Bilibili/ijkplayer) - B站开源的视频播放器，支持Android和iOS。
  * [DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster) - 这里是Android上最好的开源弹幕引擎·烈焰弹幕使。
  * [YouTubePlayerActivity](https://github.com/TheFinestArtist/YouTubePlayerActivity) - 一个可以播放YouTube视频的Activity，支持屏幕旋转、声音控制、播放失败处理、可以自定义Activity关闭动画以及在横屏播放的时候自动隐藏status bar。
@@ -369,6 +374,9 @@ https://github.com/jeasonlzy/okhttp-OkGo
  * [LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera) - 一款功能强大的 Android 视频录制库, 仅允许横屏录制, 提供细粒度控制视频的质量与文件大小。
  * [MovieHub](https://github.com/lawloretienne/MovieHub) - 非常漂亮的一款 Android Movie 工具。
  * [LyricViewDemo](https://github.com/zhengken/LyricViewDemo) - 歌词显示控件，支持多行显示、拖曳播放、自动识别歌词文件的编码。
+ * [zxing-android-embedded](https://github.com/journeyapps/zxing-android-embedded) - 二维码识别处理工具
+ * [Vlc-sdk-lib](https://github.com/mengzhidaren/Vlc-sdk-lib) - 支持各种格式的视频播放器,有详细的编译过程
+ * [AndroidFFmpeg](https://github.com/appunite/AndroidFFmpeg) - AndroidFFmpeg视频播放器
 
 ========
 #### 测试及调试
@@ -676,6 +684,9 @@ DEMO演示：
 * [material-design-responsive-design](http://www.uisdc.com/material-design-responsive-design) - 深聊Material Design复杂响应式设计，[comprehensive-material-design-note](http://www.uisdc.com/comprehensive-material-design-note) - 帮你全面彻底搞定Material design的学习笔记。
 * [Iconics](https://github.com/mikepenz/Android-Iconics) - 这是一个可以让你在你的项目中使用几乎任何字体图标的库。默认包含 FontAwesome 和 Material Design Icons 还包含 Meteocons 插件。你甚至可以添加任何你自定义的字体图标（typeface）。 
 
+========
+### 工具
+* [AntDemo](https://github.com/sinkcup/AntDemo) - 安卓自动打包ant auto build Android Package。
 
 ========
 #### 开发资源
